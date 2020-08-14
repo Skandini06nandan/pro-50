@@ -1,0 +1,17 @@
+h1{
+    color :(#8675A9);
+}
+*{  border : bold;}
+
+.header{
+  background-color: rgb(217, 189, 243);
+  display:flex;
+  justify-content:space-between;
+font-family: Agency FB
+  
+}
+.grid{
+display:flex;
+flex-wrap:wrap;
+justify-content:space-evenly;
+}
